@@ -24,5 +24,5 @@
 
    $variableName = "name";
 
-   echo $$variableName;
+   echo $$variableName;   
 ?>
